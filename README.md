@@ -1,8 +1,20 @@
 # bimm143_github
-My classwork from BIMM143 at UC San Diego
+My classwork from BIMM143 at UC San Diego Spring 2026
 
-- [Class 05: Data Visualization](class05/class05.html)
-- [Class 06: R Functions](class06/class06.pdf)
-- [Class 07: Machine Learning](class07/class07.pdf)
-- [Class 08: Mini Project](class08/class08.pdf)
-- [Class 09: Structural Bioinformatics](class09/class09.pdf)
+## Content
+- [Class 05](class05/class05.html)
+- [Class 06](class06/class06.html)
+- [Class 07](class07/class07.html)
+- [Class 08](class08/class08.html)
+- [Class 09](class09/class09.html)
+- [Class 10](class10/class10.html)
+- [Class 11](class11/class11.html)
+- [Class 12](class12/class12.html)
+- [Class 13](class13/class13.html)
+- [Class 14](class14/class14.html)
+- [Class 15](class15/class15.html)
+- [Class 16](class16/class16.html)
+- [Class 17](class17/class17.html)
+- [Class 18](class18/class18.html)
+- [Class 19](class19/class19.html)
+- [Class 20](class20/class20.html)
